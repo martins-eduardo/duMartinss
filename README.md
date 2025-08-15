@@ -54,9 +54,7 @@ Projeto desenvolvido em Django, no curso Técnico em Desenvolvimento de Sistemas
 ## Experiência Profissional
 
 ### [COFCO International](https://br.cofcointernational.com/)
-**[Alujo Estágiario]** - 10/04/2024 a 17/12/2024
-
-- Sou estágiario da empresa COFCO.
+**[Aluno Estágiario]** - 10/04/2024 a 17/12/2024
 
 ## Educação
 
