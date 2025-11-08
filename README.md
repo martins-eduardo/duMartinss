@@ -1,4 +1,4 @@
-# Eduardo Esteves Martins - Desenvolvedor FullStack
+![Texto alternativo](img/logo.png)
 
 ## Sobre Mim
 
