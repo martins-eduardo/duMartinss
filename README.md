@@ -2,8 +2,9 @@
 
 ---
 
-#### Sobre mim: 
-  - Teste
+#### About me: 
+  - I'm software developer since 2025
+  - React | TypeScript | NodeJS
 
 - **Frameworks e Bibliotecas**:
   - ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
