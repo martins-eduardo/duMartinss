@@ -5,6 +5,10 @@
 #### About me: 
   - I'm software developer since 2025
   - React | TypeScript | NodeJS
+  - I'm a science computer student
+  - Always trying to learn more and more
+  - To get to know me better: [linkedin](https://github.com/seuusuario) or [instagram](https://www.instagram.com/du.mrtss)
+
 
 - **Frameworks e Bibliotecas**:
   - ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
