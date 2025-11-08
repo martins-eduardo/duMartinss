@@ -1,4 +1,4 @@
-![Texto alternativo](img/logo.png)
+![Texto alternativo](inserir um texto.png)
 
 ## Sobre Mim
 
