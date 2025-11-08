@@ -1,4 +1,4 @@
-![Texto alternativo](log.png)
+![Texto alternativo](logo.png)
 
 ---
 
